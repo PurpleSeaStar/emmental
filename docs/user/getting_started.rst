@@ -45,8 +45,8 @@ The Emmental framework can be broken into four components.
 
   #. Task
 
-      In this component, we let user to use declarative language-like way to defeine
-      the taksk, which includes task name (name), module used in the task (module_pool),
+      In this component, we let user to use declarative language-like way to define
+      the task, which includes task name (name), module used in the task (module_pool),
       task flow (task_flow), loss function used in the task (loss_func), output 
       function (output_func), and the score functions (scorer).
 
